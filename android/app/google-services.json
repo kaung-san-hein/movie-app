@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364855541030",
+    "firebase_url": "https://movie-app-54c4d.firebaseio.com",
+    "project_id": "movie-app-54c4d",
+    "storage_bucket": "movie-app-54c4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364855541030:android:55569014dcadb116fa15e7",
+        "android_client_info": {
+          "package_name": "com.kaungsanhein.movie_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364855541030-b57fqfugst1pj41bobomrc7jdr6ccnhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvKT5ADVIlPzgDUX9K8c74K285cLpEVko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364855541030-b57fqfugst1pj41bobomrc7jdr6ccnhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
